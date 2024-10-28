@@ -15,7 +15,7 @@ To use this module, follow these steps:
 1. Clone this repository to the `modules` folder of your MagicMirror:
 
    ```sh
-   git clone https://github.com/3vidar/3vic-MM.git
+   git clone https://github.com/3vidar/3vic-MMM-Motion-Camera.git
    ```
 
 2. Add the following configuration block to the `modules` array in the `config/config.js` file to control the visibility of the built-in Clock and Calendar modules:
