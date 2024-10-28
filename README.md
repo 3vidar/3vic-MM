@@ -8,6 +8,8 @@ With this module, you can use a USB camera to track motion. If no motion is dete
 
  I have unfortunately not been able to get this module to work properly. It initializes the camera, detects motion, and turns off the monitor after 30 seconds of inactivity (no motion). However, my problem is that the screen turning off and only turn on for a few seconds wenn motion is detected. If the monitor stays off for more than 20-30 seconds, no further motion is detected, and the monitor does not turn back on. If anyone has the time to support me, I would be very grateful.
 
+I I created this module for my Mac Mini with macOS Catalina.
+
 ## Using the Module
 
 To use this module, follow these steps:
